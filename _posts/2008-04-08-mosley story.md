@@ -7,4 +7,4 @@ tags: [documentation,sample]
 image: cutting.jpg
 ---
 
-For my first new post I just have to say that that <a title=\"mosley story\" href=\"://uk.eurosport.yahoo.com/08042008/58/hopes-fade-besieged-mosley.html\" target=\"_blank\">Max Mosley thing</a> is awesome.  Oh, behave!
+For my first new post I just have to say that that <a title=\"mosley story\" href=\"http://uk.eurosport.yahoo.com/08042008/58/hopes-fade-besieged-mosley.html\" target=\"_blank\">Max Mosley thing</a> is awesome.  Oh, behave!
