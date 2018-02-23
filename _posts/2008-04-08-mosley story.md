@@ -3,7 +3,7 @@ layout: post
 title: "Mosley Story"
 author: "Chris Howell"
 categories: racing
-tags: [documentation,sample]
+tags: [racing, F1, Mosley]
 image:
 ---
 
